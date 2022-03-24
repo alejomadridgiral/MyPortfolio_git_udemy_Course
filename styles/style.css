@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+
+.home {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.8),
+     rgba(0,0,0,0.2)),
+     url("../imgs/canstockphoto69272268.jpg");
+     background-size: cover;
+}
+
+.intro{
+    color: white;
+    padding: 10% 20%;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.name {
+    font-size: 4.5rem;
+    font-weight: 500;
+}
